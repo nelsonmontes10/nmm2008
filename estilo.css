@@ -17,26 +17,14 @@ p{
     border-color: rgb(148, 164, 170);
     border-radius: 20px;
     border-style: groove;
-font-family: Arial, Helvetica, sans-serif;
-font-size: 22px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifs;
+font-size: 18px;
 color: rgb(0, 0, 0);
 align-content: center;  
-}
-
-div{
-    background-color: rgb(216, 216, 216);
-    border-width: 5px;
-    border-color: rgb(150, 150, 150);
-    border-radius: 20px;
-    border-style: groove;
-}
-form{
-    background-image: url(fondo.jpg);
-    border-width: 5px;
-    border-color: rgb(199, 167, 167);
-    border-radius: 20px;
-    border-style: groove;
-    
+text-align: unset;
+line-height: 1.5;
+padding: 3px;
+page-orientation: 20px 10px;
 }
 
 h3{
@@ -60,6 +48,10 @@ table{
     border-style: groove;
     border-color: rgb(255, 255, 255);
     background-color: #ffffff;
+    table-layout: fixed;
+    width: 95%;
+    vertical-align: top;
+    text-align: left;
 }
 
 h1{ background-color:#c09c5d9d;
@@ -69,7 +61,7 @@ h1{ background-color:#c09c5d9d;
     border-style: groove;
 padding: 10px;
 font-family: Arial, Helvetica, sans-serif;
-font-size: 20px;
+font-size: 30px;
 color: 	#031b03;
 align-content: center;
 
@@ -133,6 +125,7 @@ font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 font-size: 25px;
 color: rgb(15, 13, 13);
 align-content: center; 
-
-
 }
+
+
+
