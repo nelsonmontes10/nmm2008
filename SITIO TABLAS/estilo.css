@@ -2,11 +2,7 @@ body{
 background-image: url(https://th.bing.com/th/id/R.e9667626718243e9122c424f4b5e0a3f?rik=zr05efwU56raZw&pid=ImgRaw&r=0);
 background-repeat: no-repeat;
 background-size: cover;
-
 }
-
-
-
 
 a{
     background-color: #abebc6;
@@ -66,7 +62,7 @@ table{
     background-color: #ffffff;
 }
 
-h1{ background-color:#c5a4679d;
+h1{ background-color:#c09c5d9d;
     border-width: 5px;
     border-color: rgb(20, 19, 19);
     border-radius: 20px;
@@ -74,7 +70,7 @@ h1{ background-color:#c5a4679d;
 padding: 10px;
 font-family: Arial, Helvetica, sans-serif;
 font-size: 20px;
-color: 	#2b2e2b;
+color: 	#031b03;
 align-content: center;
 
 }
@@ -86,21 +82,6 @@ color: rgb(76, 76, 82);
 align-content: center;
 
 }
-
-label{
-    background-color:#cfcfcf;
-    border-width: 5px;
-    border-color: rgb(116, 114, 114);
-    border-radius: 10px;
-    border-style: groove;
-padding: 5px;
-font-family: Arial, Helvetica, sans-serif;
-font-size: 15px;
-color: rgb(42, 39, 39);
-align-content: center;
-
-}
-
 
 li{
     background-color: #bbc0bc;
