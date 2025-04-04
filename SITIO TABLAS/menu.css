@@ -1,0 +1,46 @@
+#menu a{
+    background-color: #848d8a;
+    border-width: 5px;
+    border-color: rgb(78, 78, 78);
+    border-radius: 10px;
+    border-style: groove;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 20px;
+color: #000000;
+align-content: center;
+text-decoration: none;
+display: block;
+margin: 0;
+}
+
+
+#menu li{
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    font-display: block;
+    background-color: #c5a4679d;
+}
+  
+hef src{
+display: block;
+
+}
+
+#menu a:hover{
+color: rgba(black);
+background:0,0,0,0.2;
+animation:1s ms 1;}
+
+@keyframes ms {
+0%{
+opacity: 0;
+transform: scale(1.6);
+}
+
+
+}
+
+
+
+
