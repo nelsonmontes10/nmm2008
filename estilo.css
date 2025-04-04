@@ -8,7 +8,7 @@ a{
     background-color: #abebc6;
 font-family: Arial, Helvetica, sans-serif;
 color: #abebc6;
-align-content: center;
+
 
 }
 p{
@@ -20,9 +20,6 @@ p{
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifs;
 font-size: 18px;
 color: rgb(0, 0, 0);
-align-content: center;  
-text-align: unset;
-line-height: 1.5;
 }
 
 h3{
@@ -46,10 +43,6 @@ table{
     border-style: groove;
     border-color: rgb(255, 255, 255);
     background-color: #ffffff;
-    table-layout: fixed;
-    width: 95%;
-    vertical-align: top;
-    text-align: left;
 }
 
 h1{ background-color:#c09c5d9d;
