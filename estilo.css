@@ -2,7 +2,7 @@ body{
 background-image: url(https://th.bing.com/th/id/R.e9667626718243e9122c424f4b5e0a3f?rik=zr05efwU56raZw&pid=ImgRaw&r=0);
 background-repeat: no-repeat;
 background-size: cover;
-size: 1000px;
+
 }
 
 a{
@@ -19,8 +19,9 @@ p{
     border-radius: 20px;
     border-style: groove;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifs;
-font-size: 5px;
+font-size: 20px;
 color: rgb(0, 0, 0);
+
 }
 
 h3{
